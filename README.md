@@ -21,11 +21,11 @@ Download now!
 
 ## All jokes aside...
 
-[https://streamable.com/4j0ni](What is the actual mod?)
+[What is the actual mod?](https://streamable.com/4j0ni)
 
 It's an UI "designer" as I like to call it - you can freely modify, move, scale the existing UI without removing any of it's functions. You can even hide them by putting them outside of the screen!
 
-Still a work in progress though, you can follow the progress on our Discord, [https://discord.gg/n6D8N3q](Wolcen Modding).
+Still a work in progress though, you can follow the progress on our Discord, [Wolcen Modding](https://discord.gg/n6D8N3q).
 
 ### How does it work?
 
